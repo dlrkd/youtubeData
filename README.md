@@ -3,6 +3,12 @@
 인하공업전문대학 빅데이터처리 프로젝트
 유튜브 데이터 분석
 
+유튜브 동영상 데이터
+>데이터 필터링 (날짜, 제목, 채널명, 조회수, 태그)
+>필터링 데이터 조회수 순으로 정렬
+>23년 데이터 조회수 추출
+>23년 데이터 중 각 채널 총 조회수 순으로 채널명 정렬
+
 참고자료 : https://coding-kindergarten.tistory.com/108
 kaggle : https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 
