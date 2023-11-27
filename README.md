@@ -33,6 +33,8 @@ kaggle : https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 #1천만 이하의 데이터만 나오게 했지만 아직도 연예인채널이 나온다
 ![천만기준](https://github.com/dlrkd/youtubeData/assets/35716755/0d510444-3b33-4a4f-a96b-5ba018b9711a)
 
-
-
+---
+고민사항
+1. 데이터를 인기순(조회수)으로 정렬하게 된다면 상위권이 kpop mv 가 많아지기 때문에 유튜브 컨텐츠의 정확한 인기 컨텐츠를 알기 어렵기 때문에 조회수를 기준 이하의 데이터를 사용하려 했으나 그렇게 하면 kpop이 아닌 상위권 컨텐츠 데이터를 사용할 수 없는 문제가 발생하게된다
+2. 이를 해결하기 위해 태그 데이터에서 kpop, bts, sm 과 같은 단어를 필터링하여서 다시 데이터 추출을 할 예정이다
 
